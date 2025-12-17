@@ -1,0 +1,1 @@
+// File removed. Please use src/types.ts
